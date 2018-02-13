@@ -1,0 +1,6 @@
+[submodule "sar2watermask"]
+	path = sar2watermask
+	url = git@github.com:jmigueldelgado/sar2watermask.git
+[submodule "ndwi2watermask"]
+	path = ndwi2watermask
+	url = git@github.com:jmigueldelgado/ndwi2watermask.git
