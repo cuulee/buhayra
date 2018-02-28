@@ -32,7 +32,7 @@ In short, the following steps are done sequentially:
 
 ## Visualization is being provided by a dedicated [website in development](http://141.89.96.184/) and by the drought forecast tool [seca-vista](http://seca-vista.geo.uni-potsdam.de/).
 
-![example output](https://raw.githubusercontent.com/jmigueldelgado/sar2watermask/master/test/screenshot.png)
+![example output](https://raw.githubusercontent.com/jmigueldelgado/sar2watermask/master/tests/screenshot.png)
 
 
 ## In progress:
