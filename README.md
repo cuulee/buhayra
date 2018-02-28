@@ -12,7 +12,7 @@ This repository deals with Sentinel-2
 
 ## Before you start...
 
-Read about configurations and setup on the [wiki](https://github.com/jmigueldelgado/buhayra/wiki/configuration)
+Read about configurations and setup on the [wiki](https://github.com/jmigueldelgado/sar2watermask/wiki)
 
 The scripts are suited to work on a PBS cluster. There is a crontab that schedules the jobs to run once a week. Although there are [conda environment files](https://conda.io/docs/user-guide/tasks/manage-environments.html#sharing-an-environment) to go with this repo, this is by definition all very machine specific!
 
