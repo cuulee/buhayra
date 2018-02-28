@@ -2,13 +2,13 @@
 
 Buhayra (from al-buhayra) is a running prototype aiming at obtaining water extent in small reservoirs in semi-arid regions from satellite data. It collects, filters and processes sentinel-1 and sentinel-2 scenes for northeast Brazil and stores the water extent in a structured data model. This work has been funded by the German Research Foundation [DFG](http://gepris.dfg.de/gepris/projekt/266418622) and runs on the compute server for high performance computing of [ZIM - University of Potsdam](http://www.uni-potsdam.de/de/zim/angebote-loesungen/hpc.html)
 
-## sar2watermask
+## [sar2watermask](https://github.com/jmigueldelgado/sar2watermask)
 
-[This repository](https://github.com/jmigueldelgado/sar2watermask) deals with Sentinel-1
+This repository deals with Sentinel-1
 
-## ndwi2watermask
+## [ndwi2watermask](https://github.com/jmigueldelgado/ndwi2watermask)
 
-[This repository](https://github.com/jmigueldelgado/ndwi2watermask) deals with Sentinel-2
+This repository deals with Sentinel-2
 
 ## Before you start...
 
