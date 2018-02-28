@@ -4,11 +4,11 @@ Buhayra (from al-buhayra) is a running prototype aiming at obtaining water exten
 
 ## sar2watermask
 
-This repository deals with Sentinel-1
+[This repository](https://github.com/jmigueldelgado/sar2watermask) deals with Sentinel-1
 
 ## ndwi2watermask
 
-This repository deals with Sentinel-2
+[This repository](https://github.com/jmigueldelgado/ndwi2watermask) deals with Sentinel-2
 
 ## Before you start...
 
