@@ -32,10 +32,8 @@ In short, the following steps are done sequentially:
 
 ## Visualization is being provided by a dedicated [website in development](http://141.89.96.184/) and by the drought forecast tool [seca-vista](http://seca-vista.geo.uni-potsdam.de/).
 
+![example output](https://raw.githubusercontent.com/jmigueldelgado/sar2watermask/master/test/screenshot.png)
+
+
 ## In progress:
 - combine the water extent collection with bathymetric survey from TanDEM-X
-
-## Example of output
-
-![alt text](https://raw.githubusercontent.com/jmigueldelgado/sar2watermask/master/test/screenshot.png
-)
