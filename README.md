@@ -37,5 +37,5 @@ In short, the following steps are done sequentially:
 
 ## Example of output
 
-![alt text](https://raw.githubusercontent.com/jmigueldelgado/sar2watermask/master/test/Screenshot from 2018-02-28 12-45-59.png
+![alt text](https://raw.githubusercontent.com/jmigueldelgado/sar2watermask/master/test/screenshot.png
 )
