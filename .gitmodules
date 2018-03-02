@@ -4,3 +4,6 @@
 [submodule "ndwi2watermask"]
 	path = ndwi2watermask
 	url = git@github.com:jmigueldelgado/ndwi2watermask.git
+[submodule "watermask2map"]
+	path = watermask2map
+	url = https://github.com/schuem/watermask2map.git
